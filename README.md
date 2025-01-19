@@ -7,7 +7,8 @@ RMScratcher is A Real-time Multi-Channel Compact Rodent Scratching Behavior Reco
 
 
 ## 🎥 Demo
-* Use this system:
+* Use this system: 
+
 ![demo](./Demo/images/demo_operation.gif)
 
 * If you use an HDMI cable to connect to the mini display, you can see the following:
