@@ -1,0 +1,2 @@
+gnome-terminal -- /bin/bash -c "source /home/ubuntu/runtime/bin/activate; cd ~/chenminUI/;python main.py;exec bash " ; gnome-terminal -- /bin/bash -c "cd /home/ubuntu/chenminUI ; python test3.py"
+
