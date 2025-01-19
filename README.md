@@ -20,7 +20,8 @@ This is just a demo. In actual use, due to the performance limitations of TX2, i
 ### Hardware Requirements 
 * **MIPI Camera module:** CS-TX2-XAVIER-nCAM 
 
-* **Platform:** Nvidia Jetson Tx2 [[Website]](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-tx2/)
+* **Platform:** Nvidia Jetson Tx2 [[Website]](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-tx2/) 
+
 ![CS-TX2-XAVIER-nCAM](./Hardware/images/TX2_6CAM.png)
 * **Other Materials:** Metal plates, LED light panels, etc.
 
