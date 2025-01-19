@@ -33,13 +33,13 @@ This is just a demo. In actual use, due to the performance limitations of TX2, i
 ## 🛠️ Construction Process
 
 ### 1. Hardware construction process
-If you need more hardware information, please refer to (click the hyperlink) [[Details]](Hardware\Hardware_info.md)
+* If you need more hardware information, please refer to (click the hyperlink) [[Details]](Hardware\Hardware_info.md)
 ![Hardware_overall](./Hardware/images/Overall%20structure%20diagram.png)
 
 ![Hardware_internal](./Hardware/images/Internal%20structure.gif)
 
 ### 2. Software construction process
-If you need more Software information, please refer to (click the hyperlink) [[Details]](Software\Software_info.md)
+* If you need more Software information, please refer to (click the hyperlink) [[Details]](Software\Software_info.md)
 
 The workflow is:
 ![](./Software/images/workflow.png)
