@@ -41,7 +41,8 @@ This is just a demo. In actual use, due to the performance limitations of TX2, i
 ### 2. Software construction process
 * If you need more Software information, please refer to (click the hyperlink) [[Details]](Software\Software_info.md)
 
-The workflow is:
+The workflow is: 
+
 ![](./Software/images/workflow.png)
 
 This is the flowchart of the recording process:
