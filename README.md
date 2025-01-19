@@ -5,12 +5,14 @@ Welcome to my GitHub profile! We are passionate developers for building innovati
 RMScratcher is A Real-time Multi-Channel Compact Rodent Scratching Behavior Recognition System based on Edge Computing.
 
 
+
 ## 🎥 Demo
 * Use this system:
 ![demo](./Demo/images/demo_operation.gif)
 
 * If you use an HDMI cable to connect to the mini display, you can see the following:
-![Compressed gif format graphics](./Demo/images/demo-output.gif)
+![Compressed gif format graphics](./Demo/images/demo-output.gif) 
+
 This is just a demo. In actual use, due to the performance limitations of TX2, it is not yet available. However, we are exploring other higher-performance edge computing platforms and are expected to add this feature.
 ## 🚀 Setup Requirements
 
